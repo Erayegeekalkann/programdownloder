@@ -242,7 +242,7 @@ python installer.py
 
 ## Screenshots
 
-![Alt text](\Users\eray1\OneDrive\Desktop\programdownloder/Screenshot 2025-11-27 225736.png?raw=true)
+
 
 The installer features a professional, cozy interface with:
 - Warm, accessible color palette
