@@ -1,0 +1,9 @@
+# No external dependencies required!
+# This installer uses only Python standard library modules:
+# - tkinter (GUI)
+# - urllib (downloading)
+# - subprocess (system commands)
+# - platform (OS detection)
+# - threading (async operations)
+
+# These are built into Python 3.x by default
