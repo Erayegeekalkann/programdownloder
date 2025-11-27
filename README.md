@@ -242,7 +242,7 @@ python installer.py
 
 ## Screenshots
 
-
+![Screenshot](https://github.com/user-attachments/assets/6316dd04-3ce9-46fd-b9c1-0a8c2e741b76)
 
 The installer features a professional, cozy interface with:
 - Warm, accessible color palette
