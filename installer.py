@@ -12,7 +12,7 @@ Features:
     - Support for direct downloads and package managers (apt, brew, snap)
     - No external dependencies (Python standard library only)
 
-Author: [Your Name]
+Author: Eray Ege Kalkan
 License: MIT
 Version: 1.0.0
 """
