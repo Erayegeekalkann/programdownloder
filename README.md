@@ -33,7 +33,7 @@ This project was developed to solve the common problem of setting up new develop
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/program_downloder.git
+git clone https://github.com/Erayegeekalkann/programdownloder.git
 cd program_downloder
 ```
 
@@ -233,7 +233,7 @@ program_downloder/
 ### Testing Locally
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/program_downloder.git
+git clone https://github.com/Erayegeekalkann/programdownloder.git
 cd program_downloder
 
 # Run the installer
